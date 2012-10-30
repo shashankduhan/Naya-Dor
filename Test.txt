@@ -1,1 +1,1 @@
-Yo YO Honey Singh! :)
+<?php echo 'YoYo World!';  ?>
